@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/alatsi</item>
+        <item>@font/alice</item>
+        <item>@font/arimo</item>
+        <item>@font/belleza</item>
+        <item>@font/bellota_light</item>
+        <item>@font/catamaran_extralight</item>
+        <item>@font/catamaran_light</item>
+        <item>@font/chivo_light</item>
+        <item>@font/dosis</item>
+    </array>
+</resources>
