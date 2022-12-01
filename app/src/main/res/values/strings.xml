@@ -17,4 +17,11 @@
     <string name="naoTemConta">Não tem conta?</string>
     <string name="cadastreSe">CADASTRE-SE</string>
     <string name="cadastro">Cadastro</string>
+    <string name="novoNome">nome</string>
+    <string name="novoDataNascimento">data de nascimento</string>
+    <string name="cep">cep</string>
+    <string name="cpf">cpf</string>
+    <string name="confirmarSenha">confirmar senha</string>
+    <string name="cadastrar">CADASTRAR</string>
+    <string name="voltar">VOLTAR</string>
 </resources>

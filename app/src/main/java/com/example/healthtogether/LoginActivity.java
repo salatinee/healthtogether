@@ -1,9 +1,6 @@
 package com.example.healthtogether;
 
 import android.app.Activity;
-
-// Compare this snippet from app\src\main\java\com\example\healthtogether\LoginActivity.java:
-
 import android.content.res.ColorStateList;
 import android.graphics.Color;
 import android.os.Bundle;
